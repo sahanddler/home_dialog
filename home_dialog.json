@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "title": "سڵاو",
-  "message": "ئەم ڕێگەیە بۆ ئاگادارکردنەوەی گرنگ...",
+  "message": "ئەم ڕێگەیە بۆ",
   "buttonText": "بینین",
   "link": "https://www.t.me/sahand_dler",
   "minHoursBetween": 6
