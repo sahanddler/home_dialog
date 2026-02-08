@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "title": "سڵاو",
-  "message": "ئەم ڕێگەیە بۆ",
-  "buttonText": "بینین",
-  "link": "https://www.t.me/sahand_dler",
+  "title": "لابردنی ڕێکلامەکان",
+  "message": "ئێستا بژاردەی لابردنی ڕێکلامەکان بەردەستە",
+  "buttonText": "باشە",
+  "link": "",
   "minHoursBetween": 6
 }
