@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "title": "لابردنی ڕێکلامەکان",
-  "message": "ئێستا بژاردەی لابردنی ڕێکلامەکان بەردەستە",
-  "buttonText": "باشە",
-  "link": "",
+  "title": "وەشانی نوێ",
+  "message": "ئێستا وەشانی نوێی خوێنە بەردەستە بە کۆمەڵێك گۆڕانکاری",
+  "buttonText": "نوێکردنەوە",
+  "link": "https://play.google.com/store/apps/details?id=com.my.xwenar1&hl=en-US",
   "minHoursBetween": 6
 }
