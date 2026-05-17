@@ -2,10 +2,10 @@
   "enabled": true,
   "title": "ئەپدەیتی نوێ ",
   "message": "ئێستا ئەپدەیتی نوێ بۆ ئەندرۆید بەردەستە",
-  "buttonText": "",
-  "link": "ئەپدەیت کردن",
-  "buttonText1": "",
-  "link1": "https://play.google.com/store/apps/details?id=com.my.xwenar1",
+  "buttonText": "ئەپدەیت کردن",
+  "link": "",
+  "buttonText1": "https://play.google.com/store/apps/details?id=com.my.xwenar1",
+  "link1": "",
   "minHoursBetween": 0.5
 }
 
