@@ -1,9 +1,9 @@
 {
-  "enabled": false,
+  "enabled": true,
   "title": "ئەپدەیتی نوێ ",
-  "message": "ئێستا ئەپدەیتی نوێ بۆ ئەندرۆید بەردەستە",
+  "message": "ئێستا ئەپدەیتی نوێ بۆ ئایفۆن بەردەستە",
   "buttonText": "ئەپدەیت کردن",
-  "link": "https://play.google.com/store/apps/details?id=com.my.xwenar1",
+  "link": "https://apps.apple.com/us/app/xwenar/id6751713873",
   "buttonText1": "",
   "link1": "",
   "minHoursBetween": 0.5
