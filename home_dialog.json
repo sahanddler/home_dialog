@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "title": "ئەپدەیتی نوێ ",
-  "message": "ئێستا ئەپدەیتی نوێ بۆ ئایفۆن بەردەستە",
-  "buttonText": "ئەپدەیت کردن",
-  "link": "https://apps.apple.com/us/app/xwenar/id6751713873",
+  "title": "ناردنی کتێب",
+  "message": "ئێستا دەتوانن لە پەیجی بەشەکانی کتێب نووسەر یان وەرگێڕە بەڕێزەکان کتێبەکانیان بنێرن تا بۆیان بڵاوبکەینەوە",
+  "buttonText": "لابردن",
+  "link": "",
   "buttonText1": "",
   "link1": "",
-  "minHoursBetween": 0.5
+  "minHoursBetween": 24
 }
 
 
