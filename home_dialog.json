@@ -1,12 +1,12 @@
 {
-  "enabled": false,
-  "title": "جامی جیهانی",
-  "message": "​بینەری یاری کۆتایی جامی جیهانی بن ڕێگەی کوردش تیڤی",
+  "enabled": true,
+  "title": "نوێکاری",
+  "message" : "ئێستا وەشانی نوێی خوێنەر بەردەستە بە کۆمەڵێک نوێکاری ناوازە",
   "buttonText": "لابردن",
   "link": "",
   "buttonText1": "داگرتن",
-  "link1": "https://play.google.com/store/apps/details?id=com.kurdishtv&referrer=utm_source%3Dapps.facebook.com%26utm_campaign%3Dfb4a%26utm_content%3D%257B%2522app%2522%253A0%252C%2522t%2522%253A1783319514%252C%2522source%2522%253Anull%257D",
-  "minHoursBetween": 0.0001
+  "link1": "https://play.google.com/store/apps/details?id=com.my.xwenar1",
+  "minHoursBetween": 72
 }
 
 
