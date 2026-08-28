@@ -1,11 +1,11 @@
 
 {
-  "enabled": false,
-  "title": "بۆ ئایفۆن",
-  "message" : "ئێستا وەشانی نوێی خوێنەر بەردەستە بە کۆمەڵێک نوێکاری ناوازە",
+  "enabled": true,
+  "title": "گۆڕینەوەی باڵانس و دراو",
+  "message" : "ئێستا دەتوانن لە رێگەی کەی ئاڕ دی باڵانس باڵانسەکانتان بگۆڕنەوە بە کەمترین کرێی خزمەتگوزاری لە نێوان کۆڕەک،ئاسیاسێڵ،ئاسیاپەی،فاستپەی،ئێف ئای بی",
   "buttonText": "لابردن",
   "link": "",
-  "buttonText1": "نوێکردنەوە",
-  "link1": "https://apps.apple.com/us/app/xw%C3%AAner-%D8%AE%D9%88%DB%8E%D9%86%DB%95%D8%B1/id6751713873",
+  "buttonText1": "بینین",
+  "link1": "https://www.krdbalance.online",
   "minHoursBetween": 72
 }
